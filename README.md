@@ -19,7 +19,7 @@
 ---
 
 ### 💱 Currency Converter  
-👉 https://aryankumar62.github.io/currency-converter/
+👉 https://aryankumar62.github.io/Currency-converter/
 
 - Real-time currency conversion  
 - API integration  
