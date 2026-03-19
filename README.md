@@ -27,6 +27,20 @@
 
 ---
 
+### 📝 To-Do List App
+An interactive task manager with clean UI and themes.
+
+**Features:**
+- Add / Delete tasks  
+- Mark tasks complete  
+- Theme switcher  
+- Live date & time  
+- Data stored using localStorage  
+
+🔗 Live:  https://aryankumar62.github.io/To_Do_List/
+
+---
+
 ## 🛠️ Skills
 
 - HTML  
