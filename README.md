@@ -41,6 +41,44 @@ An interactive task manager with clean UI and themes.
 
 ---
 
+# 🧙‍♂️ Harry Potter Character Explorer
+
+A web application that allows users to explore **Harry Potter characters** using a public API.
+Users can select a character and instantly view detailed information.
+
+---
+
+## 🚀 Live Demo
+
+🔗 https://aryankumar62.github.io/Harry-Potter-Info/
+
+---
+
+## 📌 Features
+
+* 🧙 Select characters from dropdown
+* 📖 View detailed information:
+
+  * Full Name
+  * Birthdate
+  * House
+  * Actor
+  * Nickname
+  * Children
+* ⚡ Fast API data fetching
+* ❗ Handles missing data gracefully
+* 📱 Responsive design
+
+## ⚙️ How It Works
+
+1. User selects a character
+2. App sends request to Harry Potter API
+3. Data is fetched dynamically
+4. Details are displayed on screen
+
+
+---
+
 ## 🛠️ Skills
 
 - HTML  
