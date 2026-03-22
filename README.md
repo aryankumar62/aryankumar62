@@ -46,36 +46,31 @@ An interactive task manager with clean UI and themes.
 A web application that allows users to explore **Harry Potter characters** using a public API.
 Users can select a character and instantly view detailed information.
 
----
-
 ## 🚀 Live Demo
 
 🔗 https://aryankumar62.github.io/Harry-Potter-Info/
 
----
-
-## 📌 Features
-
-* 🧙 Select characters from dropdown
-* 📖 View detailed information:
-
-  * Full Name
-  * Birthdate
-  * House
-  * Actor
-  * Nickname
-  * Children
 * ⚡ Fast API data fetching
 * ❗ Handles missing data gracefully
 * 📱 Responsive design
 
-## ⚙️ How It Works
 
-1. User selects a character
-2. App sends request to Harry Potter API
-3. Data is fetched dynamically
-4. Details are displayed on screen
+---
 
+#💰 Expense Manager
+
+A simple and responsive web application to manage daily income and expenses. This project is designed for users who want an easy alternative to complex tools like Excel.
+
+🚀 Features
+
+➕ Add income and expenses
+❌ Delete transactions
+📊 Automatic total calculation (Income & Expense)
+🧹 Clear all income or expense data
+💾 Data stored using localStorage (persists after refresh)
+⚡ Real-time UI updates
+
+🔗 Live: https://aryankumar62.github.io/Expense_Manager/
 
 ---
 
