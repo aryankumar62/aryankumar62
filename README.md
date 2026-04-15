@@ -95,7 +95,8 @@ A simple and responsive web application to manage daily income and expenses. Thi
 - JavaScript  
 - DOM Manipulation  
 - LocalStorage  
-- API Integration  
+- API Integration
+- React (hook, component) 
 
 ---
 
