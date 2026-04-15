@@ -18,6 +18,20 @@
 
 ---
 
+### 🔐 Password Generator
+👉 https://aryankumar62.github.io/Password_Generator/
+
+-🚀 Features
+- Generate secure passwords instantly
+- Adjustable password length (6–40)
+- Option to include:
+  - Numbers
+  - Special characters
+- Copy password to clipboard
+- Clean and responsive UI
+
+---
+
 ### 💱 Currency Converter  
 👉 https://aryankumar62.github.io/Currency-converter/
 
