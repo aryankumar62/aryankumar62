@@ -1,8 +1,8 @@
 # Hi, I'm Aryan Kumar 👋
 
-💻 Beginner Web Developer  
+💻 Web Developer  
 🚀 Passionate about building real-world projects  
-📚 Currently learning JavaScript & improving problem solving  
+📚 Currently learning React & improving problem solving  
 
 ---
 
@@ -55,14 +55,12 @@ An interactive task manager with clean UI and themes.
 
 ---
 
-# 🧙‍♂️ Harry Potter Character Explorer
+### 🧙‍♂️ Harry Potter Character Explorer
 
 A web application that allows users to explore **Harry Potter characters** using a public API.
 Users can select a character and instantly view detailed information.
 
-## 🚀 Live Demo
-
-🔗 https://aryankumar62.github.io/Harry-Potter-Info/
+👉 https://aryankumar62.github.io/Harry-Potter-Info/
 
 * ⚡ Fast API data fetching
 * ❗ Handles missing data gracefully
@@ -71,7 +69,7 @@ Users can select a character and instantly view detailed information.
 
 ---
 
-#💰 Expense Manager
+###💰 Expense Manager
 
 A simple and responsive web application to manage daily income and expenses. This project is designed for users who want an easy alternative to complex tools like Excel.
 
@@ -84,7 +82,7 @@ A simple and responsive web application to manage daily income and expenses. Thi
 💾 Data stored using localStorage (persists after refresh)
 ⚡ Real-time UI updates
 
-🔗 Live: https://aryankumar62.github.io/Expense_Manager/
+👉 Live: https://aryankumar62.github.io/Expense_Manager/
 
 ---
 
@@ -117,17 +115,3 @@ A simple and responsive web application to manage daily income and expenses. Thi
 ---
 
 ⭐ If you like my work, check out my repositories!
-<!--
-**aryankumar62/aryankumar62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
